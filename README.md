@@ -13,11 +13,11 @@
 
 
 ###### FOR ALL COUNTRY #####
-git clone https://github.com/Thr-tech/Fin.txt
+git clone https://github.com/Thr-tech/FileV2
 
 
-cd Fin.txt
+cd FileV2
 
 
 
-python Anim.py
+python FILEX.py
